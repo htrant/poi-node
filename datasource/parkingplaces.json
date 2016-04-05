@@ -1,0 +1,79 @@
+[
+  {
+    "id": "5a2419b0-fb57-11e5-bd61-eb3914057f40",
+    "position": {
+      "latitude": "10.00000",
+      "longtitude": "20.00000"
+    },
+    "floor": "2",
+    "slot": "E5",
+    "remark": "",
+    "vacant": true
+  },
+  {
+    "id": "6e94cc00-fb57-11e5-bd61-eb3914057f40",
+    "position": {
+      "latitude": "35.00000",
+      "longtitude": "-40.00000"
+    },
+    "floor": "-1",
+    "slot": "E4",
+    "remark": "Basement 1",
+    "vacant": false
+  },
+  {
+    "id": "d663cf20-fb57-11e5-b16f-3dc249d0ed25",
+    "position": {
+      "latitude": "10.00000",
+      "longtitude": "20.00000"
+    },
+    "floor": "-2",
+    "slot": "C12",
+    "remark": "Basement 2, west entrance",
+    "vacant": true
+  },
+  {
+    "id": "8f78cd90-fb5c-11e5-85c6-6bab327f6642",
+    "position": {
+      "latitude": "35.00000",
+      "longtitude": "-40.00000"
+    },
+    "floor": "0",
+    "slot": "A1",
+    "remark": "On the ground",
+    "vacant": false
+  },
+  {
+    "id": "c37a66d0-fb5c-11e5-b2dc-cd73ba94ef7d",
+    "position": {
+      "latitude": "35.00000",
+      "longtitude": "-40.00000"
+    },
+    "floor": "0",
+    "slot": "B21",
+    "remark": "On the ground",
+    "vacant": true
+  },
+  {
+    "id": "ad3f3310-fb6f-11e5-8dc0-03a2a4b509c6",
+    "position": {
+      "latitude": "35.00000",
+      "longtitude": "-40.00000"
+    },
+    "floor": "0",
+    "slot": "D52",
+    "remark": "On the ground",
+    "vacant": true
+  },
+  {
+    "id": "daa9c1f0-fb72-11e5-8dc0-03a2a4b509c6",
+    "position": {
+      "latitude": "35.00000",
+      "longtitude": "-40.00000"
+    },
+    "floor": "-1",
+    "slot": "F42",
+    "remark": "On 1st basement",
+    "vacant": true
+  }
+]
