@@ -40,7 +40,6 @@ POST /api/auth HTTP/1.1
 Host: 127.0.0.1:3000
 Content-Type: application/json
 Cache-Control: no-cache
-Postman-Token: 162f0b29-00a7-955d-537f-871b93444585
 
 {
  "username": "userone",
@@ -67,7 +66,6 @@ Host: 127.0.0.1:3000
 Content-Type: application/json
 access-token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6InVzZXJvbmUiLCJwYXNzd29yZCI6InBhc3N3b3JkIiwiaWF0IjoxNDU5ODc2OTA2LCJleHAiOjE0NTk5NjMzMDZ9.gyzK9JwDJEXnJyswxwbmxvulA8LmTGkdrJQavj7SmE0
 Cache-Control: no-cache
-Postman-Token: f303d6f7-b613-d48e-39fc-59ec6fdf2bd9
 
 {
     "latitude": "35.00000",
